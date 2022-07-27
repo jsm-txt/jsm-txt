@@ -1,8 +1,8 @@
 👋 Hello my name is Jose Salazar Mendez.
 
 
-- 🌱 Currently a student at Dominican University of California pursuing a degree in computer science!
-    Graduating August 2022! 🎓
+- 🌱 Currently a recent alumn at Dominican University of California with a degree in computer science!
+    B.A. in *Applied Computer Science*! 🎓
 
 
 -🥇 My Interest are working in backend and some frontend devvelopment, and learning more in general.
